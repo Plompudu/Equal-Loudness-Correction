@@ -1,0 +1,12 @@
+# Listening 84 => Reference 72
+# RMS error: 0.032 dB
+Filter 1: ON PK Fc 28.3 Hz Gain +5.33 dB Q 0.20
+Filter 2: ON PK Fc 56.4 Hz Gain +0.51 dB Q 0.59
+Filter 3: ON PK Fc 112.5 Hz Gain +0.71 dB Q 0.60
+Filter 4: ON PK Fc 224.4 Hz Gain +4.54 dB Q 0.46
+Filter 5: ON PK Fc 447.7 Hz Gain +1.73 dB Q 0.58
+Filter 6: ON PK Fc 893.4 Hz Gain +7.00 dB Q 0.43
+Filter 7: ON PK Fc 1782.5 Hz Gain +1.63 dB Q 0.76
+Filter 8: ON PK Fc 3556.6 Hz Gain +2.05 dB Q 0.66
+Filter 9: ON PK Fc 7096.3 Hz Gain +1.80 dB Q 0.78
+Filter 10: ON PK Fc 14158.9 Hz Gain +9.19 dB Q 0.10
